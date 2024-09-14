@@ -1,7 +1,7 @@
 # Hello, world!
 
-## _I am Alla Gainulina_
+## __I am Alla Gainulina__
 
-## _I love all of you!-
+## __I love all of you!__
 
 ![](../img/artificial-intelligence.jpg)
